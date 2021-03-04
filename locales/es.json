@@ -1,0 +1,6 @@
+{
+    "com.api.radar.error.409": "El objeto ya se encuentra en nuestra base de datos",
+    "com.api.radar.error.404":"Objeto no encontrado. No se puede ejecutar la operación de actualización",
+    "com.api.radar.success.200": "Operación ejecutada satisfactoriamente",
+    "com.api.radar.success.201": "Objeto creado satisfactoriamente"
+}

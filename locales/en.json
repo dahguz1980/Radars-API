@@ -1,0 +1,6 @@
+{
+	"com.api.radar.error.409": "The object already exist in our database",
+	"com.api.radar.error.404":"Object Not Found. Cannot perfom the update operation",
+    "com.api.radar.success.200": "The operation has been executed succesfully",
+    "com.api.radar.success.201": "The object was created correctly"
+}
